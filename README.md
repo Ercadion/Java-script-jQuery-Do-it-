@@ -1,2 +1,2 @@
-# Java-script-jQuery-Do-it-
+# Javascript+jQuery(Do it!)
 record of my study
